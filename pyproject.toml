@@ -8,9 +8,13 @@ repository = "https://github.com/aleksandrchusovitin/python-project-49"
 packages = [
     { include = "brain_games" },
 ]
+classifiers = [
+    "Natural Language :: English",
+    "Programming Language :: Python :: ^3.10",
+]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 prompt = "^0.4.1"
 
 [tool.poetry.scripts]
