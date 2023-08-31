@@ -6,6 +6,30 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/35fba527d220626c45ee/maintainability)](https://codeclimate.com/github/aleksandrchusovitin/python-project-49/maintainability)
 
+## The package contains five simple mathematics quiz games:
+
+* Even check brain-even
+* Calculator brain-calc
+* Greatest common divider brain-gcd
+* Arithmetic progression brain-progression
+* Prime number brain-prime
+
+## Install
+
+```sh
+git clone https://github.com/aleksandrchusovitin/python-project-49.git
+
+cd python-project-49
+
+make install
+
+make build
+
+make publish
+
+make package-install
+```
+
 ### Demo:
 
 ### brain-even:
